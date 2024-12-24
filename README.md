@@ -124,14 +124,6 @@ Warning
 
 ⚠️ Mining Litecoin on a mobile device with a bad cooling may damage your device
 
----
-Thx for all
----
-That for all.If you want to view your stats of miner you can go to [zsolo.bid](https://zsolo.bid/)
-
-Donate with BTC:bc1qnk0ftxa4ep296phhnxl5lv9c2s5f8xakpcxmth
-
-Donate with LTC:ltc1quja3smxyr4m02f7v8tjmcwz37567k7z0rj66ac
 
 ---
 Contact me
